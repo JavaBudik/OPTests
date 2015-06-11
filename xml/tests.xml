@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+	<test name="test1" link="test1.xml"/>
+	<test name="test2" link="test2.xml"/>
+	<test name="test3" link="test3.xml"/>
+	<test name="test4" link="test4.xml"/>
+	<test name="test5" link="test5.xml"/>
+</tests>

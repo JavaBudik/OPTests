@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+	
+	<bean name="/testList.htm" class="controller.TestListController"/>
+	<bean name="/userStat.htm" class="controller.UserStatController"/>
+	<bean name="/statForAdmin.htm" class="controller.StatForAdmin"/>
+	<bean name="/allusers.htm" class="controller.AllUsersController"/>
+	<bean name="/profile.htm" class="controller.ProfileController"/>
+	<bean name="/getTest.htm" class="controller.GetTestController"/>
+	<bean name="/test.htm" class="controller.testController"/>
+	<bean name="/check.htm" class="controller.checkController"/>
+	<bean name="/deleteTest.htm" class="controller.DeleteTestController"/>
+	<bean name="/testResults.htm" class="controller.testResultController"/>
+	<bean name="/adminProfile.htm" class="controller.AdminProfileController"/>
+	<bean name="/alltest.htm" class="controller.AllTestController"/>
+
+    <bean name="/search.htm" class="controller.SearchController">
+		<property name="formView" value="WEB-INF/jsp/search.jsp" />
+		<property name="commandClass" value="controller.RegCommand"/>		
+	</bean>
+	
+	<bean name="/register.htm" class="controller.RegController">
+		<property name="formView" value="register.jsp" />
+		<property name="commandClass" value="controller.RegCommand"/>
+		<property name="validator">
+			<bean class="controller.RegValidator" />
+		</property>
+	</bean>
+	
+		<bean name="/addLevel1.htm" class="controller.LevelOneController">
+		<property name="formView" value="WEB-INF/jsp/addLevel1.jsp" />
+		<property name="commandClass" value="controller.RegCommand"/>
+		<property name="validator">
+			<bean class="controller.AddLevel1Validator" />
+		</property>
+		
+	</bean>
+	
+	<bean name="/addLevel2.htm" class="controller.LevelTwoController">
+		<property name="formView" value="WEB-INF/jsp/addLevel2.jsp" />
+		<property name="commandClass" value="controller.RegCommand"/>
+		<property name="validator">
+			<bean class="controller.AddLevel2Validator" />
+		</property>
+		
+	</bean>
+	
+	<bean name="/addchoice.htm" class="controller.ChoiceController">
+		<property name="formView" value="WEB-INF/jsp/addChoice.jsp" />
+		<property name="commandClass" value="controller.RegCommand"/>
+		<property name="validator">
+			<bean class="controller.AddChoiceValidator" />
+		</property>
+		
+	</bean>
+
+
+	<bean name="/login.htm" class="controller.LogController">
+		<property name="formView" value="login.jsp" />
+		<property name="commandClass" value="controller.RegCommand" />
+	</bean>
+	<bean name="/regsucc.htm" class="controller.RegSuccess">
+		<property name="formView" value="regSuccess.jsp" />
+		<property name="commandClass" value="controller.RegCommand" />
+	</bean>
+	<bean name="/logerr.htm" class="controller.LogErr">
+		<property name="formView" value="logError.jsp" />
+		<property name="commandClass" value="controller.RegCommand" />
+	</bean>
+	<bean name="/reg2.htm" class="classes.Reg2">
+				
+	</bean>
+	<bean name="/logout.htm" class="controller.LogOut">
+	</bean>
+
+</beans>

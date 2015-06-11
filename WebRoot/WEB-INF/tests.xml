@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<tests>
+      <test name="Столиці світу" link="test1.xml"/>
+      <test name="Різна шняга" link="test2.xml"/>
+      <test name="Просто тест" link="test3.xml"/>
+</tests>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+	<result>
+		<login>login1</login>
+		<test>test1</test>
+		<mark>75</mark>
+		<persent>65</persent>
+		<date>12.08.2009</date>
+	</result>
+	<result>
+		<login>login1</login>
+		<test>test2</test>
+		<mark>75</mark>
+		<persent>65</persent>
+		<date>12.08.2009</date>
+	</result>
+	<result>
+		<login>login2</login>
+		<test>test3</test>
+		<mark>75</mark>
+		<persent>65</persent>
+		<date>12.08.2009</date>
+	</result>
+</info>

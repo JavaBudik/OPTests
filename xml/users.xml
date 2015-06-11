@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+<user login="Stroom" password="qwerty">
+   <name>Olexandr</name>
+   <middlename>Olexandrovich</middlename>
+   <surname>Budik</surname>
+   <vuz>NULP</vuz>
+   <group>ZIDm12</group>
+</user>
+<user login="stroom2" password="qwerty">
+   <name>Katya</name>
+   <middlename>Olegivna</middlename>
+   <surname>Fidria</surname>
+   <vuz>NULP</vuz>
+   <group>ZIDm12</group>
+</user>
+<user login="Stroom" password="qwerty">
+   <name>null</name>
+   <middlename>null</middlename>
+   <surname>null</surname>
+   <vuz>null</vuz>
+   <group>null</group>
+</user>
+</users>

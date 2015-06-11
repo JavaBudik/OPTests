@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+	<result login="login1" test="test1" mark="75" persent="65" date="11.08.2009" />
+	<result login="login2" test="test2" mark="75" persent="65" date="12.08.2009" />
+	<result login="login3" test="test3" mark="75" persent="65" date="13.08.2009" />
+	<result login="login1" test="test4" mark="75" persent="65" date="14.08.2009" />
+	<result login="login5" test="test5" mark="75" persent="65" date="15.08.2009" />
+</info>

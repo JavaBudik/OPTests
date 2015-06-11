@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<test name="Столиці світу" numberOfQuestions="5">
+<question name="Столиця України" level="1" count="2">
+     <answer bal="0" name="Москва" />
+     <answer bal="1" name="Київ" />
+</question>
+<question name="Столиця Росії" level="1" count="4">
+     <answer bal="0" name="Париж" />
+     <answer bal="0" name="Київ" />
+     <answer bal="1" name="Москва" />
+     <answer bal="0" name="Рига" />
+</question>
+<question name="Столиця Франції" level="1" count="5">
+     <answer bal="0" name="Таллін" />
+     <answer bal="0" name="Москва" />
+     <answer bal="0" name="Дрезден" />
+     <answer bal="1" name="Париж" />
+     <answer bal="0" name="Люксембург" />
+</question>
+<question name="ПК має" level="2" count="4">
+     <answer bal="1" name="процесор" />
+     <answer bal="0" name="лінзу" />
+     <answer bal="1" name="чіпсет" />
+     <answer bal="0" name="крило" />
+</question>
+<question name="Вкажіть парні числа" level="2" count="5">
+     <answer bal="0" name="22" />
+     <answer bal="1" name="37" />
+     <answer bal="0" name="12" />
+     <answer bal="0" name="100" />
+     <answer bal="1" name="11" />
+</question>
+<question name="Вкажіть парні числа" level="2" count="5">
+     <answer bal="0" name="111" />
+     <answer bal="1" name="100" />
+     <answer bal="1" name="230" />
+     <answer bal="1" name="400" />
+     <answer bal="0" name="113" />
+</question>
+<question name="Вкажіть тризначні числа" level="2" count="4">
+     <answer bal="1" name="221" />
+     <answer bal="1" name="113" />
+     <answer bal="0" name="1000" />
+     <answer bal="0" name="9999" />
+</question>
+<question name="Вкажіть чотиризначні числа" level="2" count="5">
+     <answer bal="1" name="1010" />
+     <answer bal="0" name="1" />
+     <answer bal="0" name="90" />
+     <answer bal="0" name="54" />
+     <answer bal="1" name="3291" />
+</question>
+<question name="Яка фірма не існує" level="2" count="5">
+     <answer bal="0" name="Dell" />
+     <answer bal="0" name="HP" />
+     <answer bal="0" name="Acer" />
+     <answer bal="1" name="LhjgTipa" />
+     <answer bal="1" name="Thaigjhi" />
+</question>
+<question name="Windows XP не розпізнає" level="1" count="5">
+     <answer bal="0" name="1 Гб" />
+     <answer bal="1" name="4 Гб" />
+     <answer bal="0" name="2 Гб" />
+     <answer bal="0" name="512 Мб" />
+     <answer bal="0" name="256 Мб" />
+</question>
+<question name="Зараз популярні формати" level="2" count="3">
+     <answer bal="1" name="16:10" />
+     <answer bal="0" name="3:4" />
+     <answer bal="1" name="16:9" />
+</question>
+<question name="З чого складається клавіатура" level="2" count="5">
+     <answer bal="1" name="клавіш" />
+     <answer bal="1" name="корпусу" />
+     <answer bal="0" name="процесора" />
+     <answer bal="0" name="диска" />
+     <answer bal="0" name="вінчестера" />
+</question>
+</test>

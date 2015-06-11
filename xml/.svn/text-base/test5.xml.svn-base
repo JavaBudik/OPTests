@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test name="test1">
+	<question>Question 1
+		<answer bal="1">answer 1</answer>
+		<answer bal="0">answer 2</answer>
+		<answer bal="0">answer 3</answer>
+		<answer bal="0">answer 4</answer>
+		<answer bal="0">answer 5</answer>
+	</question>
+	<question>Question 2
+		<answer bal="1">answer 1</answer>
+		<answer bal="0">answer 2</answer>
+		<answer bal="0">answer 3</answer>
+		<answer bal="0">answer 4</answer>
+		<answer bal="0">answer 5</answer>
+	</question>
+	<question>Question 3
+		<answer bal="1">answer 1</answer>
+		<answer bal="0">answer 2</answer>
+		<answer bal="0">answer 3</answer>
+		<answer bal="0">answer 4</answer>
+		<answer bal="0">answer 5</answer>
+	</question>
+	<question>Question 4
+		<answer bal="1">answer 1</answer>
+		<answer bal="0">answer 2</answer>
+		<answer bal="0">answer 3</answer>
+		<answer bal="0">answer 4</answer>
+		<answer bal="0">answer 5</answer>
+	</question>
+	<question>Question 5
+		<answer bal="1">answer 1</answer>
+		<answer bal="0">answer 2</answer>
+		<answer bal="0">answer 3</answer>
+		<answer bal="0">answer 4</answer>
+		<answer bal="0">answer 5</answer>
+	</question>
+</test>

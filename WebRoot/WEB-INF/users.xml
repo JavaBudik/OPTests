@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<users>
+	<user login="ka" password="ka">
+		<name name="ka" />
+		<middlename name="ka" />
+		<surname attr="k" />
+		<vuz attr="k" />
+		<group attr="k" />
+	</user>
+	<user login="kaktys" password="ja">
+		<name name="ds" />
+		<middlename name="ї" />
+		<surname attr="ы" />
+		<vuz attr="ыы" />
+		<group attr="ZIDm-12" />
+	</user>
+<user login="name1" password="qwerty">
+   <name name="Олександр"/>
+   <middlename name="Олександрович"/>
+   <surname attr="Будік"/>
+   <vuz attr="НУЛП"/>
+   <group attr="ЗІДм-12"/>
+</user>
+<user login="name2" password="qwerty">
+   <name name="Катерина"/>
+   <middlename name="Олегівна"/>
+   <surname attr="Фідря"/>
+   <vuz attr="НУЛП"/>
+   <group attr="ЗІДм-12"/>
+</user>
+<user login="name3" password="qwerty">
+   <name name="Павло"/>
+   <middlename name="Олегович"/>
+   <surname attr="Хромчак"/>
+   <vuz attr="НУЛП"/>
+   <group attr="ЗІДм-12"/>
+</user>
+<user login="name4" password="qwerty">
+   <name name="Олександр"/>
+   <middlename name="Анатолійович"/>
+   <surname attr="Ткаченко"/>
+   <vuz attr="НУЛП"/>
+   <group attr="ЗІДм-12"/>
+</user>
+<user login="name5" password="qwerty">
+   <name name="Сергій"/>
+   <middlename name="Едуардович"/>
+   <surname attr="Дорощук"/>
+   <vuz attr="НУЛП"/>
+   <group attr="ЗІДм-12"/>
+</user>
+<user login="name6" password="qwerty">
+   <name name="Ігор"/>
+   <middlename name="Орестович"/>
+   <surname attr="Сало"/>
+   <vuz attr="НУЛП"/>
+   <group attr="ЗІДм-12"/>
+</user>
+<user login="name7" password="qwerty">
+   <name name="Дарія"/>
+   <middlename name="Олександрівна"/>
+   <surname attr="Донцова"/>
+   <vuz attr="НУЛП"/>
+   <group attr="ЗІДм-12"/>
+</user>
+<user login="name8" password="qwerty">
+   <name name="Оксана"/>
+   <middlename name="Віталіївна"/>
+   <surname attr="Глущук"/>
+   <vuz attr="НУЛП"/>
+   <group attr="ЗІДм-12"/>
+</user>
+<user login="name9" password="qwerty">
+   <name name="Остап"/>
+   <middlename name="Кирилович"/>
+   <surname attr="Курило"/>
+   <vuz attr="НУЛП"/>
+   <group attr="СЗД-52"/>
+</user>
+<user login="name10" password="qwerty">
+   <name name="Валерій"/>
+   <middlename name="Павлович"/>
+   <surname attr="Чоботар"/>
+   <vuz attr="НУЛП"/>
+   <group attr="СЗД-52"/>
+</user>
+<user login="name11" password="qwerty">
+   <name name="Андрій"/>
+   <middlename name="Данилович"/>
+   <surname attr="Даниловський"/>
+   <vuz attr="НУЛП"/>
+   <group attr="АМЗ-52"/>
+</user>
+<user login="name12" password="qwerty">
+   <name name="Наталя"/>
+   <middlename name="Ігорічна"/>
+   <surname attr="Мазур"/>
+   <vuz attr="НУЛП"/>
+   <group attr="АМЗ-52"/>
+</user>
+<user login="name13" password="qwerty">
+   <name name="Андрій"/>
+   <middlename name="Іванович"/>
+   <surname attr="Кутць"/>
+   <vuz attr="НУЛП"/>
+   <group attr="АМЗ-52"/>
+</user>
+<user login="name14" password="qwerty">
+   <name name="Андрій"/>
+   <middlename name="Данилович"/>
+   <surname attr="Даниловський"/>
+   <vuz attr="НУЛП"/>
+   <group attr="АМЗ-52"/>
+</user>
+</users>

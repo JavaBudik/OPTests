@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test name="test1">
+	<question name="Where is dog?" level="1">
+		<answer bal="1" name="at home" />
+		<answer bal="0" name="at sea" />
+		<answer bal="0" name="at me" />
+		<answer bal="0" name="on sofa" />
+		<answer bal="0" name="answer 5" />
+	</question>
+	<question name="Question 2" level="1">
+		<answer bal="0" name="answer 21" />
+		<answer bal="1" name="answer 22" />
+		<answer bal="0" name="answer 23" />
+		<answer bal="0" name="answer 24" />
+		<answer bal="0" name="answer 25" />
+	</question>
+	<question name="Question 3" level="2">
+		<answer bal="1" name="answer 1" />
+		<answer bal="0" name="answer 2" />
+		<answer bal="1" name="answer 3" />
+		<answer bal="0" name="answer 4" />
+		<answer bal="0" name="answer 5" />
+	</question>
+	<question name="Question 4" level="2">
+		<answer bal="0" name="answer 1" />
+		<answer bal="1" name="answer 2" />
+		<answer bal="0" name="answer 3" />
+		<answer bal="1" name="answer 4" />
+		<answer bal="0" name="answer 5" />
+	</question>
+	<question name="Question 5" level="2">
+		<answer bal="1" name="answer 1" />
+		<answer bal="0" name="answer 2" />
+		<answer bal="0" name="answer 3" />
+		<answer bal="1" name="answer 4" />
+		<answer bal="1" name="answer 5" />
+	</question>
+	<question name="Question 6" level="2">
+		<answer bal="0" name="6answer 1" />
+		<answer bal="1" name="6answer 2" />
+		<answer bal="0" name="6answer 3" />
+		<answer bal="0" name="6answer 4" />
+		<answer bal="1" name="6answer 5" />
+	</question>
+	<question name="Question 6" level="2">
+		<answer bal="0" name="6answer 1" />
+		<answer bal="1" name="6answer 2" />
+		<answer bal="0" name="6answer 3" />
+		<answer bal="0" name="6answer 4" />
+		<answer bal="1" name="6answer 5" />
+	</question>
+</test>
